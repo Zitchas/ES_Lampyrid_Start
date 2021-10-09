@@ -42,7 +42,7 @@ start "lampyrid"
 			"fuel capacity" 700
 			"cargo space" 160
 			"outfit space" 300
-			"engine capacity" 105
+			"engine capacity" 130
 			"weapon capacity" 50
 			weapon
 				"blast radius" 100
@@ -50,7 +50,6 @@ start "lampyrid"
 				"hull damage" 500
 				"hit force" 1500
 		outfits
-			"Blaster Turret"
 			"Anti-Missile Turret"
 			"S3 Thermionic"
 			"LP036a Battery Pack"
@@ -78,8 +77,7 @@ start "lampyrid"
 		"steering engine" 64.5 -31.5 0.7
 			angle -180
 			right
-		turret -10 6 "Blaster Turret"
-		turret 10 6 "Anti-Missile Turret"
+		turret 0 9 "Anti-Missile Turret"
 		bay "Fighter" -26.5 9.5 under
 		bay "Fighter" 26.5 9.5 under
 		explode "tiny explosion" 10
