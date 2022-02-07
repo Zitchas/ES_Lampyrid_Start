@@ -35,7 +35,7 @@ start "lampyrid"
 			"shields" 5400
 			"hull" 4400
 			"required crew" 5
-			"bunks" 22
+			"bunks" 23
 			"mass" 240
 			"drag" 8.5
 			"heat dissipation" .7
