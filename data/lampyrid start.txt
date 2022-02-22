@@ -26,7 +26,7 @@ start "lampyrid"
 			interest 0.004
 			term 365
 	set "license: Pilot's"
-	ship "Lampyrid Mk. III"
+	ship "Lampyrid Mk. III" "Lampyrid Mk. III"
 		sprite "ship/lampyrid"
 		thumbnail "thumbnail/lampyrid"
 		attributes
